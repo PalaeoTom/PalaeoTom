@@ -2,7 +2,7 @@
 - 👀 I’m interested in analysing patterns of morphological disparity, diversity (functional and taxonomic), distribution, and ecological variety.
 - 🌱 I’m currently learning to produce an R package of my own.
 - 💞️ I’m looking to collaborate on anything! Please get in touch if you have any ideas!
-- 📫 How to reach me: your best bet is via a direct message on Bluesky. 
+- 📫 How to reach me: please email me at thomas.roper-smith@oum.ox.ac.uk
 
 <!---
 PalaeoTom/PalaeoTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
